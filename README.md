@@ -22,11 +22,10 @@ direction TB
 D["Darkness"]
 E["Falling Star ✦"]
 F["Light Intensifies 🌈"]
-D --> E --> F
+D <--> E <--> F
 end
 
 C --> D
-F --> G["Inversion ☀"]
-G --> H["Day Sky + Stars"]
-H --> A
+F <--> G["Inversion ☀"]
+G <--> H["Day Sky + Stars"]
 ```
