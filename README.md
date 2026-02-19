@@ -18,9 +18,9 @@ A["Constellation<br>✦ ✦ ✦"] -- //Click/Click/Click// --> C["Fracture 💥"
 
 subgraph descent["Descent Phase"]
 direction TB
-D["Darkness"]
-E["Falling Star ✦"]
-F["Light Intensifies 🌈"]
+D["Text Convergence①"]
+E["Text Convergence②"]
+F["Text Convergence③"]
 D <--> E <--> F
 end
 
