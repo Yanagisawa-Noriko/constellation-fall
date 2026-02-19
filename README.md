@@ -1,3 +1,21 @@
+
+1. 
+- Constellation
+- img Silence ice
+- Fracture
+
+2.
+- fall (Falling Star ✦)
+
+- Text Animation
+- Converging Text
+
+3.   
+- Light Intensifies
+
+
+---
+
 ```mermaid
 %%{
   init:{
@@ -27,3 +45,7 @@ end
 C --> D
 F <-- ☽ Inversion ☀ --> H["Day Sky + Stars"]
 ```
+
+---
+
+
