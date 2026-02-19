@@ -14,8 +14,7 @@
 }%%
 flowchart TD
 
-A["Constellation<br>✦ ✦ ✦"] --> B["Click"]
-B --> C["Fracture 💥"]
+A["Constellation<br>✦ ✦ ✦"] -- //Click/Click/Click// --> C["Fracture 💥"]
 
 subgraph descent["Descent Phase"]
 direction TB
@@ -26,6 +25,5 @@ D <--> E <--> F
 end
 
 C --> D
-F <--> G["Inversion ☀"]
-G <--> H["Day Sky + Stars"]
+F <-- ☽ Inversion ☀ --> H["Day Sky + Stars"]
 ```
